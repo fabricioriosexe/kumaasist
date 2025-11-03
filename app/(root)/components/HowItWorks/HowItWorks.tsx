@@ -7,8 +7,8 @@ export function HowItWorks(){
         <div className="container mx-auto px-4"
         > <div className="text-center mb-16">
 
-            <h2 className="text-white text-3xl md:text-4xl font-bold mb-4">How It Works</h2>
-        <p className="text-xl text-slate-200 max-w-2xl mx-auto">Get Interview ready in just a few simple steps</p>
+            <h2 className="text-white text-3xl md:text-4xl font-bold mb-4">¿Cómo Funciona?</h2>
+        <p className="text-xl text-slate-200 max-w-2xl mx-auto">Prepárate para tu entrevista en unos simples pasos</p>
         </div>
         <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-8 max-w-6xl mx-auto">
     {howItWorksData.map((step,index)=>(
