@@ -1,31 +1,30 @@
-import { features } from "process";
 
-export const pricingPlans=[
+export const pricingPlans = [
     {
-        name: "Free",
-        price:"0",
-        descripcion:"Perfect for getting started",
-        features:[
-            "1 practice interviews",
-            "Basic coding questions",
-            "General feedback",
-            "Community support"
+        name: "Gratis", // Traducido
+        price: "0",
+        descripcion: "Perfecto para empezar", // Traducido
+        features: [
+            "1 entrevista de práctica", // Traducido
+            "Preguntas básicas de código", // Traducido
+            "Feedback general", // Traducido
+            "Soporte comunitario" // Traducido
         ],
-        buttonText:"Start Free",
-        popular:false,
+        buttonText: "Empezar Gratis", // Traducido
+        popular: false,
     }, {
         name: "Pro",
-        price:"29",
-        descripcion:"For serious interview preparation",
-        features:[
-            "Unlimited practice interviews",
-            "All question types & difficulties",
-            "Detailed AI feedback & analysis",
-            "Company-specific questions",
-            "Progress tracking & analytics",
-            "Prioority support"
+        price: "29",
+        descripcion: "Para una preparación seria de entrevistas", // Traducido
+        features: [
+            "Entrevistas de práctica ilimitadas", // Traducido
+            "Todos los tipos y dificultades de preguntas", // Traducido
+            "Análisis y feedback detallado de IA", // Traducido
+            "Preguntas específicas de la empresa", // Traducido
+            "Seguimiento de progreso y analíticas", // Traducido
+            "Soporte prioritario" // Traducido y corregido el typo
         ],
-        buttonText:"Start Pro Trial",
-        popular:true,
+        buttonText: "Iniciar Prueba Pro", // Traducido
+        popular: true,
     },
-]
+];

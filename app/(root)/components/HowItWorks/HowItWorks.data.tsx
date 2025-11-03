@@ -3,19 +3,19 @@ import { MessageSquare,Brain,BarChart3,Trophy, icons } from "lucide-react";
 export const howItWorksData=[
     {
         icon : MessageSquare,
-        title : "Choose your Interview type",
-        description : "Select from technical coding, system design, or company specify",
+        title : "Elige tu tipo de entrevista",
+        description : "Selecciona entre entrevista técnica, diseño de sistemas o específica de una empresa.",
     },{
         icon : Brain,
-        title : "Practice with AI Interviewer",
-        description : "Engage in realistic conversation with our AI that adapts to your experience level and role.",
+        title : "Practica con un Entrevistador de IA",
+        description : "Participa en una conversación realista con nuestra IA, que se adapta a tu nivel de experiencia y rol." ,
     },{
         icon : BarChart3,
-        title : "Get Intant FeedBack",
-        description : "Receive detaild analysis on your answers, coding skills, comunication, and areas for improvement",
+        title :  "Obtén Feedback Instantáneo",
+        description : "Recibe un análisis detallado de tus respuestas, habilidades de código, comunicación y áreas de mejora.",
     },{
         icon : Trophy,
-        title : "Track your Progress",
-        description : "Monitor your improvement over time and identify which skills need more practice before the real interview",
+        title : "Mide tu Progreso",
+        description : "Mide tu Progreso",
     },
 ]

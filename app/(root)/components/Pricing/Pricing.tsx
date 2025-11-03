@@ -9,8 +9,8 @@ export function Pricing(){
      <div className="container mx-auto max-w-3xl"
      >
         <div className="text-center mb-16">
-            <h2 className="text-3xl md:text-4xl font-extrabold">Choose your plan</h2>
-            <p className="text-xl text-slate-200 max-w-2xl mx-auto">Start free, upgrade when you are ready to ace every interview</p>
+            <h2 className="text-3xl md:text-4xl font-extrabold">Elige tu plan</h2>
+            <p className="text-xl text-slate-200 max-w-2xl mx-auto">Empieza gratis, mejora tu plan cuando estés listo para dominar cada entrevista</p>
             </div>
 
             <div className="grid md:grid-cols-2 gap-8 max-w-6xl mx-auto">

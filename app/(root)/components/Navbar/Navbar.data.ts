@@ -1,14 +1,14 @@
 export const links = [ 
     {
-        name:"How it works",
+        name:"Cómo Funciona",
         href:"#how-it-works"
     },
     {
-        name:"Pricing",
+        name:"Precios",
         href:"#pricing"
     },
     {
-        name:"Contact",
+        name:"Contacto",
         href:"#cta"
     },  
     {
